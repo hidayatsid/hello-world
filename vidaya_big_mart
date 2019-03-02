@@ -1,0 +1,6 @@
+data sets used of big mart sales prediction,
+algorithms are used lassolars of linear regression 
+labelencoder from preprocessing for categorical data has been used.
+standard scaler  polynomial features are imported from sklearn.preprocessing library for scalinfg purpose are used.
+for evaluation RMSE metrics are used
+for further tunninug and optimization  Gradient descent are used.
